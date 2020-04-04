@@ -6,5 +6,7 @@
 ## WebAssembly
 
 * [webAssembly](/webAssembly/README.md)
-* [Emscripten](emscripten.md)
+* [Emscripten](/webAssembly/emscripten.md)
+
+
 
