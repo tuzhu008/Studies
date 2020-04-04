@@ -4,3 +4,5 @@
 * [First Chapter](chapter1.md)
 * [Emscripten](emscripten.md)
 
+## WebAssembly
+
