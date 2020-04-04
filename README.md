@@ -1,3 +1,6 @@
-# My Awesome Book
+# WebAssembly
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+[https://www.wasm.com.cn/getting-started/developers-guide/](https://www.wasm.com.cn/getting-started/developers-guide/)
+
+[https://emcc.zcopy.site/](https://emcc.zcopy.site/)
+
