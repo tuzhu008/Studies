@@ -1,4 +1,4 @@
-# webAssembly
+# WebAssembly
 
 [https://www.wasm.com.cn/getting-started/developers-guide/](https://www.wasm.com.cn/getting-started/developers-guide/)
 
